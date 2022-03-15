@@ -17,10 +17,18 @@
 
 #💞️ I’m located at Onovolab
 
+<a href "https://www.github.com/jessiemerrow">
+
 #Social
 
+               
+
 https://fandomers.com/JessieMerrow
+
+
 https://jessie-merrow.tumblr.com
+
+
 https://www.linkedin.com/in/jannahserrano-1569431b2/
 
 #📫 How to reach me fandomers@fandomers.com 
@@ -28,7 +36,3 @@ https://www.linkedin.com/in/jannahserrano-1569431b2/
 
 ![image](https://user-images.githubusercontent.com/41707901/158400856-70f08f5e-6aec-4ebb-8d7e-fab4039105e8.png)
 
-
-
- 
- 
