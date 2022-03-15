@@ -7,5 +7,5 @@
 📫 How to reach me fandomers@fandomers.com 
 
 
- <img src="206744.gif" alt="Minha Figura">
+ <img src="./img.206744.gif" alt="Minha Figura">
  
